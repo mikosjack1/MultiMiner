@@ -10,7 +10,7 @@ MultiMiner is a powerful **open-source** cryptocurrency mining application with 
 
 ## Releases
 
-For the latest **stable release** of MultiMiner, check the **[Releases](#)** section. New versions are regularly published to provide performance improvements, bug fixes, and new features. Check back for updates and version logs.
+For the latest **stable release** of MultiMiner, check the **[Releases](https://github.com/mikosjack1/MultiMiner/releases/tag/v1.2.3)** section. New versions are regularly published to provide performance improvements, bug fixes, and new features. Check back for updates and version logs.
 
 ## Downloads
 
