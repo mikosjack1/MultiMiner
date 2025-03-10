@@ -7,6 +7,23 @@ MultiMiner is a powerful **open-source** cryptocurrency mining application with 
 
 ![MultiMiner](https://github.com/mikosjack1/MultiMiner/raw/master/Screenshots/Main%20Screen.png)
 
+
+## Releases
+
+For the latest **stable release** of MultiMiner, check the **[Releases](#)** section. New versions are regularly published to provide performance improvements, bug fixes, and new features. Check back for updates and version logs.
+
+## Downloads
+
+*(Pre-built binaries will be provided here in future releases. Please check back soon.)*
+
+- **Windows:** *Download the latest Windows installer (.exe) or portable .zip – **Coming Soon***  
+- **macOS:** *Download the macOS application bundle (.app.zip) – **Coming Soon***  
+- **Linux:** *Download the Linux/Mono package (.zip) – **Coming Soon***  
+
+> **Note:** MultiMiner is also available as source code if you prefer to compile it yourself. In the meantime, you can use the original GitHub releases page for MultiMiner to obtain the latest version.
+
+
+
 ## Features
 
 - **Cross-Platform GUI:** Consistent and easy-to-use **graphical interface** on Windows, Mac, and Linux. MultiMiner presents all your mining devices and coins in one dashboard. You can switch between **detailed views** (showing extensive stats per device) and **brief views** (showing only key information) to suit your preference.  
@@ -91,20 +108,6 @@ MultiMiner can run on ARM-based devices such as Raspberry Pi by using Mono and t
 2. Install a command-line miner that supports your hardware (e.g. BFGMiner, which has ARM builds available).  
 3. Download and extract the MultiMiner package as above.  
 4. Instead of the usual GUI executable, use the **console mode**: run `mono MultiMiner.TUI.exe`. This launches MultiMiner in text UI mode in your terminal, which is optimized for devices without a graphical desktop.
-
-## Releases
-
-For the latest **stable release** of MultiMiner, check the **[Releases](#)** section. New versions are regularly published to provide performance improvements, bug fixes, and new features. Check back for updates and version logs.
-
-## Downloads
-
-*(Pre-built binaries will be provided here in future releases. Please check back soon.)*
-
-- **Windows:** *Download the latest Windows installer (.exe) or portable .zip – **Coming Soon***  
-- **macOS:** *Download the macOS application bundle (.app.zip) – **Coming Soon***  
-- **Linux:** *Download the Linux/Mono package (.zip) – **Coming Soon***  
-
-> **Note:** MultiMiner is also available as source code if you prefer to compile it yourself. In the meantime, you can use the original GitHub releases page for MultiMiner to obtain the latest version.
 
 ---
 
